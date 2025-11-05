@@ -28,8 +28,8 @@ This repository includes all scripts for training and inference for our experime
     * `model_3_testing.ipynb`: The reproducible inference script for our final model.
 
 * **Experimental Models:**
-    * `model_1_training.ipynb` / `model_1_inference.ipynb`: 60k samples, 4096 seq length (Exp 2).
-    * `model_2_training.ipynb` / `model_2_inference.ipynb`: 30k samples, 2048 seq length (Exp 1).
+    * `model_1_training.ipynb` / `model_1_inference.ipynb`: 60k samples, 4096 seq length (Exp 1).
+    * `model_2_training.ipynb` / `model_2_inference.ipynb`: 30k samples, 2048 seq length (Exp 2).
 
 * **Report:**
     * `Deep_learning.pdf`: Our final project report detailing all experiments and analysis.
